@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "ja"
-title = "miya web"
+title = "cipher web"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
@@ -13,9 +13,9 @@ canonifyURLs = true
 
 [params]
   # Sets the meta tag description
-  description          = "miyaが書くblogです。"
+  description          = "cipherが書くblogです。"
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "miya web"
+  navbarTitle          = "cipher web"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/blog/"
 
@@ -87,9 +87,9 @@ canonifyURLs = true
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header    = "miya's website"
+  header    = "cipher's website"
 
-  paragraph = "miyaがふと思ったこと、体験を共有するサイトです。"
+  paragraph = "cipherがふと思ったこと、体験を共有するサイトです。"
 
   about     = "日本のIT企業でフロントエンドエンジニアをやっています。社会人2年目のペーペーですができることをコツコツと。車が好きで S2000 AP1-130に乗ってます。"
 
@@ -102,7 +102,7 @@ canonifyURLs = true
     # Sets Image to be Future Imperfect's hexagon
     imperfect = true
     width     = ""
-    alt       = "miya"
+    alt       = "cipher"
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
