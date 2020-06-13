@@ -1,12 +1,11 @@
 +++
 author = "cipher"
-date = "2020-06-18"
+date = "2020-06-13"
 description = "cipherについて"
 title = "about"
 +++
 
-# about
-東京のIT企業でソフトウェアエンジニアをやっているCipherと申します。
+日本のIT企業でソフトウェアエンジニアをやっているCipherと申します。
 
 ## 使ったことのある技術
 - TypeScript
